@@ -1,7 +1,8 @@
 <h2 align="center">Hello! 👋🏽 I'm Parv Mahajan!</h2>
 <p align="center">
+  <a href="https://github.com/parviam/parviam/blob/7f92b02ff9cfa528d8ba03f44bd5f326b83a11dc/Github%20Sep%2024%20Resume%20-%20Parv%20Mahajan-1.pdf">Resume</a> • 
   <a href="mailto:parvm@gatech.edu">parvm@gatech.edu</a> •
-  <a href="https://www.linkedin.com/in/jacob-aguirre9/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jacob-aguirre9/">LinkedIn</a> • 
   <a href="https://www.instagram.com/vrap_it_up/">Instagram</a>
 </p>
 
