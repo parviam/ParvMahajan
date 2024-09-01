@@ -2,6 +2,7 @@
 <p align="center">
   <a href="mailto:parvm@gatech.edu">parvm@gatech.edu</a> •
   <a href="https://www.linkedin.com/in/jacob-aguirre9/">LinkedIn</a>
+  <a href="https://www.instagram.com/vrap_it_up/">Instagram</a>
 </p>
 
 I'm in the integrated Masters/Bachelors Computer Science program at Georgia Tech specializing in machine intelligence and system modeling. I am employed as:
