@@ -5,7 +5,7 @@
 </p>
 
 I'm in the integrated Masters/Bachelors Computer Science program at Georgia Tech specializing in machine intelligence and system modeling. I am employed as:
-- an intern at the [Georgia Tech Research Institute Advanced Concepts Laboratory](url) where I work on biosecurity and DNA-based cyber threats
+- an intern at the [Georgia Tech Research Institute Advanced Concepts Laboratory](https://gtri.gatech.edu/laboratories/advanced-concepts-laboratory) where I work on biosecurity and DNA-based cyber threats
 - a linear algebra curriculum developer at the School of Mathematics, where I help improve and maintain [amazing massively online open courses](https://www.edx.org/school/gtx)
 
 -------
